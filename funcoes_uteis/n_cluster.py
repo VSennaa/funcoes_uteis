@@ -1,4 +1,4 @@
-# funcoes/n_cluster.py
+# funcoes_uteis/n_cluster.py
 import matplotlib.pyplot as ptl
 from sklearn.cluster import KMeans
 
