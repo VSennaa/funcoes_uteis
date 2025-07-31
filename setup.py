@@ -8,6 +8,4 @@ setup(
         'matplotlib',
         'scikit-learn',
     ],
-    author='VSennaa',
-    description='Funções úteis para análise de dados, como o método do cotovelo.',
 )
