@@ -1,2 +1,2 @@
 # __init__.py
-from .funcoes.n_cluster import cotovelo
+from .funcoes_uteis.n_cluster import cotovelo
